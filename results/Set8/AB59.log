@@ -1,0 +1,21 @@
+hypergraph with 2610058 vertices and 1867571774 hyperarcs generated in 1149198
+1923043 [0, 2176313]: LP
+	bnd = 2176313.750000
+	its = 12
+	hyp = 293 / 777
+	cut = 0
+1923674 [0, 2176313]: HEURISTIC 3
+1924286 [0, 2176313]: LABEL
+	tot = 4415
+	max = 1
+1932006 [2147646, 2174137]: LABEL
+	tot = 64510
+	max = 55
+1993396 [2147646, 2171963]: LABEL
+	tot = 732107
+	max = 1848
+2669262 [2158104, 2169791]: LABEL
+	tot = 8413126
+	max = 40234
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc

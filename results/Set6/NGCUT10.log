@@ -1,0 +1,26 @@
+hypergraph with 195 vertices and 718 hyperarcs generated in 6
+13 [0, 1458]: LP
+	bnd = 1458.333374
+	its = 4
+	hyp = 17 / 27
+	cut = 0
+14 [0, 1458]: HEURISTIC 3
+14 [1452, 1458]: LABEL
+	tot = 42
+	max = 3
+15 [1452, 1456]: LABEL
+	tot = 42
+	max = 3
+16 [1452, 1455]: LABEL
+	tot = 42
+	max = 3
+17 [1452, 1453]: LABEL
+	tot = 42
+	max = 3
+17 [1452, 1452]: LABEL
+	tot = 42
+	max = 3
+18 [1452, 1452]: LP INTEGRAL
+18 [1452, 1452]: LABEL
+	tot = 19
+	max = 1

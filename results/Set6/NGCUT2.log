@@ -1,0 +1,339 @@
+hypergraph with 108 vertices and 430 hyperarcs generated in 3
+16 [0, 254]: LP
+	bnd = 254.333344
+	its = 6
+	hyp = 23 / 28
+	cut = 0
+17 [0, 254]: HEURISTIC 3
+17 [230, 254]: LABEL
+	tot = 27
+	max = 2
+18 [230, 254]: LABEL
+	tot = 27
+	max = 2
+19 [230, 253]: LABEL
+	tot = 27
+	max = 2
+19 [230, 253]: LABEL
+	tot = 27
+	max = 2
+20 [230, 253]: LABEL
+	tot = 27
+	max = 2
+20 [230, 253]: LP
+	bnd = 254.333359
+	its = 6
+	hyp = 29 / 54
+	cut = 3
+20 [230, 253]: LABEL
+	tot = 30
+	max = 2
+21 [230, 252]: LABEL
+	tot = 30
+	max = 2
+21 [230, 252]: LABEL
+	tot = 30
+	max = 2
+22 [230, 252]: LABEL
+	tot = 30
+	max = 2
+22 [230, 252]: LABEL
+	tot = 30
+	max = 2
+23 [230, 251]: LABEL
+	tot = 30
+	max = 2
+23 [230, 251]: LABEL
+	tot = 30
+	max = 2
+24 [230, 251]: LABEL
+	tot = 30
+	max = 2
+24 [230, 251]: LP
+	bnd = 253.145630
+	its = 5
+	hyp = 30 / 63
+	cut = 7
+	restart
+24 [230, 251]: LABEL
+	tot = 30
+	max = 2
+25 [230, 250]: LABEL
+	tot = 30
+	max = 2
+25 [230, 250]: LABEL
+	tot = 30
+	max = 2
+26 [230, 250]: LABEL
+	tot = 30
+	max = 2
+26 [230, 250]: LABEL
+	tot = 40
+	max = 3
+27 [230, 249]: LABEL
+	tot = 40
+	max = 3
+27 [230, 249]: LP
+	bnd = 245.716675
+	its = 4
+	hyp = 31 / 79
+	cut = 11
+	restart
+28 [230, 245]: LABEL
+	tot = 35
+	max = 2
+29 [230, 245]: LABEL
+	tot = 35
+	max = 2
+29 [230, 245]: LABEL
+	tot = 35
+	max = 2
+29 [230, 245]: LP
+	bnd = 245.600006
+	its = 3
+	hyp = 29 / 85
+	cut = 15
+30 [230, 244]: LABEL
+	tot = 35
+	max = 2
+31 [230, 244]: LABEL
+	tot = 35
+	max = 2
+31 [230, 244]: LABEL
+	tot = 35
+	max = 2
+32 [230, 244]: LP
+	bnd = 245.000015
+	its = 3
+	hyp = 26 / 92
+	cut = 19
+	restart
+32 [230, 244]: LABEL
+	tot = 38
+	max = 2
+33 [230, 244]: LABEL
+	tot = 41
+	max = 2
+33 [230, 244]: LP
+	bnd = 241.052658
+	its = 1
+	hyp = 27 / 92
+	cut = 24
+	restart
+34 [230, 241]: LABEL
+	tot = 36
+	max = 1
+35 [230, 240]: LABEL
+	tot = 36
+	max = 1
+35 [230, 240]: LP
+	bnd = 240.000015
+	its = 1
+	hyp = 19 / 92
+	cut = 29
+	restart
+36 [230, 240]: LABEL
+	tot = 40
+	max = 1
+36 [230, 239]: LABEL
+	tot = 40
+	max = 1
+37 [230, 239]: LP
+	bnd = 239.333359
+	its = 1
+	hyp = 23 / 92
+	cut = 34
+	restart
+37 [230, 239]: LABEL
+	tot = 55
+	max = 2
+38 [230, 239]: LP
+	bnd = 239.333359
+	its = 1
+	hyp = 25 / 92
+	cut = 39
+38 [230, 239]: LABEL
+	tot = 55
+	max = 2
+39 [230, 238]: LABEL
+	tot = 55
+	max = 2
+40 [230, 238]: LABEL
+	tot = 56
+	max = 2
+41 [230, 238]: LABEL
+	tot = 56
+	max = 2
+41 [230, 238]: LP
+	bnd = 239.333359
+	its = 3
+	hyp = 19 / 99
+	cut = 44
+42 [230, 238]: LABEL
+	tot = 56
+	max = 2
+42 [230, 237]: LABEL
+	tot = 56
+	max = 2
+43 [230, 237]: LP
+	bnd = 238.930237
+	its = 2
+	hyp = 33 / 102
+	cut = 49
+	restart
+44 [230, 237]: LABEL
+	tot = 56
+	max = 2
+44 [230, 237]: LABEL
+	tot = 56
+	max = 2
+45 [230, 237]: LABEL
+	tot = 56
+	max = 2
+46 [230, 236]: LABEL
+	tot = 56
+	max = 2
+46 [230, 236]: LABEL
+	tot = 56
+	max = 2
+47 [230, 236]: LABEL
+	tot = 71
+	max = 3
+47 [230, 236]: LP
+	bnd = 238.193558
+	its = 4
+	hyp = 37 / 112
+	cut = 54
+	restart
+48 [230, 236]: LABEL
+	tot = 73
+	max = 3
+48 [230, 236]: LABEL
+	tot = 73
+	max = 3
+49 [230, 236]: LP
+	bnd = 238.193558
+	its = 1
+	hyp = 42 / 112
+	cut = 58
+49 [230, 235]: LABEL
+	tot = 75
+	max = 3
+50 [230, 235]: LABEL
+	tot = 76
+	max = 3
+50 [230, 235]: LABEL
+	tot = 76
+	max = 3
+51 [230, 235]: LP
+	bnd = 237.849564
+	its = 2
+	hyp = 48 / 114
+	cut = 62
+	restart
+52 [230, 235]: LABEL
+	tot = 76
+	max = 3
+52 [230, 234]: LABEL
+	tot = 85
+	max = 3
+53 [230, 234]: LABEL
+	tot = 86
+	max = 3
+54 [230, 234]: LABEL
+	tot = 86
+	max = 3
+54 [230, 234]: LP
+	bnd = 237.543579
+	its = 3
+	hyp = 56 / 120
+	cut = 66
+	restart
+55 [230, 234]: LABEL
+	tot = 82
+	max = 3
+56 [230, 233]: LABEL
+	tot = 83
+	max = 3
+56 [230, 233]: LABEL
+	tot = 83
+	max = 3
+56 [230, 233]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 70
+	restart
+57 [230, 233]: LABEL
+	tot = 90
+	max = 3
+57 [230, 233]: LABEL
+	tot = 95
+	max = 3
+58 [230, 232]: LABEL
+	tot = 96
+	max = 3
+58 [230, 232]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 74
+59 [230, 232]: LABEL
+	tot = 96
+	max = 3
+59 [230, 232]: LABEL
+	tot = 96
+	max = 3
+60 [230, 232]: LABEL
+	tot = 96
+	max = 3
+60 [230, 232]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 78
+60 [230, 232]: LABEL
+	tot = 96
+	max = 3
+61 [230, 231]: LABEL
+	tot = 98
+	max = 4
+62 [230, 231]: LABEL
+	tot = 98
+	max = 4
+62 [230, 231]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 82
+62 [230, 231]: LABEL
+	tot = 98
+	max = 4
+63 [230, 231]: LABEL
+	tot = 98
+	max = 4
+63 [230, 230]: LABEL
+	tot = 102
+	max = 4
+64 [230, 230]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 86
+64 [230, 230]: LABEL
+	tot = 102
+	max = 4
+65 [230, 230]: LABEL
+	tot = 102
+	max = 4
+65 [230, 230]: LABEL
+	tot = 102
+	max = 4
+66 [230, 230]: LP
+	bnd = 237.333344
+	its = 1
+	hyp = 22 / 120
+	cut = 90
+66 [230, 230]: LABEL
+	tot = 108
+	max = 4

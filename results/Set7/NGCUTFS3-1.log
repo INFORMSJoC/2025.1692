@@ -1,0 +1,142 @@
+hypergraph with 8971 vertices and 358835 hyperarcs generated in 107
+713 [0, 29222]: LP
+	bnd = 29222.000000
+	its = 30
+	hyp = 115 / 278
+	cut = 0
+719 [0, 29222]: HEURISTIC 3
+722 [0, 29222]: LABEL
+	tot = 272
+	max = 2
+725 [0, 29192]: LABEL
+	tot = 338
+	max = 4
+733 [0, 29163]: LABEL
+	tot = 569
+	max = 7
+745 [0, 29134]: LABEL
+	tot = 891
+	max = 14
+765 [0, 29105]: LABEL
+	tot = 1326
+	max = 23
+799 [0, 29076]: LABEL
+	tot = 2169
+	max = 25
+846 [0, 29047]: LABEL
+	tot = 2886
+	max = 30
+917 [0, 29018]: LABEL
+	tot = 4031
+	max = 38
+1021 [0, 28989]: LABEL
+	tot = 5319
+	max = 51
+1156 [0, 28960]: LABEL
+	tot = 6401
+	max = 57
+1341 [0, 28931]: LABEL
+	tot = 7619
+	max = 55
+1525 [0, 28931]: LP
+	bnd = 29176.298828
+	its = 26
+	hyp = 172 / 603
+	cut = 12
+	restart
+1605 [0, 28902]: LABEL
+	tot = 5348
+	max = 36
+1713 [0, 28873]: LABEL
+	tot = 6543
+	max = 44
+1840 [0, 28844]: LABEL
+	tot = 7496
+	max = 45
+2004 [0, 28815]: LABEL
+	tot = 8644
+	max = 52
+2203 [0, 28786]: LABEL
+	tot = 9789
+	max = 59
+2212 [0, 28786]: LP
+	bnd = 29009.136719
+	its = 22
+	hyp = 231 / 769
+	cut = 25
+	restart
+2265 [28315, 28757]: LABEL
+	tot = 4437
+	max = 27
+2330 [28315, 28729]: LABEL
+	tot = 5545
+	max = 33
+2414 [28315, 28700]: LABEL
+	tot = 6785
+	max = 45
+2522 [28315, 28671]: LABEL
+	tot = 8153
+	max = 59
+2657 [28315, 28643]: LABEL
+	tot = 9616
+	max = 71
+2826 [28315, 28614]: LABEL
+	tot = 11251
+	max = 75
+2899 [28315, 28614]: LP
+	bnd = 28894.828125
+	its = 22
+	hyp = 159 / 883
+	cut = 38
+	restart
+3024 [28315, 28585]: LABEL
+	tot = 8657
+	max = 93
+3178 [28315, 28557]: LABEL
+	tot = 10166
+	max = 100
+3374 [28315, 28528]: LABEL
+	tot = 11795
+	max = 113
+3612 [28315, 28500]: LABEL
+	tot = 13361
+	max = 108
+3686 [28315, 28500]: LP
+	bnd = 28844.841797
+	its = 25
+	hyp = 201 / 1002
+	cut = 53
+	restart
+3872 [28315, 28471]: LABEL
+	tot = 11321
+	max = 99
+4096 [28315, 28443]: LABEL
+	tot = 12814
+	max = 108
+4333 [28315, 28443]: LP
+	bnd = 28821.460938
+	its = 19
+	hyp = 252 / 1082
+	cut = 69
+	restart
+4612 [28315, 28414]: LABEL
+	tot = 14737
+	max = 112
+4908 [28315, 28386]: LABEL
+	tot = 16451
+	max = 109
+4944 [28315, 28386]: LP
+	bnd = 28764.800781
+	its = 17
+	hyp = 226 / 1200
+	cut = 85
+	restart
+5120 [28315, 28357]: LABEL
+	tot = 12438
+	max = 108
+5336 [28315, 28329]: LABEL
+	tot = 14184
+	max = 114
+5579 [28315, 28315]: LABEL
+	tot = 15080
+	max = 103
