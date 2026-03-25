@@ -1,6 +1,6 @@
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# HPG
+# An Efficient Solver for Integral Flows in Decision Hypergraphs with Applications to Cutting Problems
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MPL 2.0 License](LICENSE.md).
@@ -24,10 +24,10 @@ https://doi.org/10.1287/ijoc.2025.1692.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
-  author =        {T. Ralphs},
+@misc{leonard2026,
+  author =        {A. Léonard, F. Clautiaux},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{HPG}},
+  title =         {{An Efficient Solver for Integral Flows in Decision Hypergraphs with Applications to Cutting Problems}},
   year =          {2026},
   doi =           {10.1287/ijoc.2025.1692.cd},
   url =           {https://github.com/INFORMSJoC/2025.1692},
@@ -213,4 +213,3 @@ You can use the arrows to rotate the solution.
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 (MPL-2.0).
-Any modifications to this source code must be published under the same license.
