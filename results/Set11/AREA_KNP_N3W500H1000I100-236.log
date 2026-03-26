@@ -1,0 +1,16 @@
+hypergraph with 353991 vertices and 70098834 hyperarcs generated in 25256
+159630 [0, 499938]: LP
+	bnd = 499938.843750
+	its = 25
+	hyp = 254 / 456
+	cut = 0
+159701 [0, 499938]: HEURISTIC 3
+159744 [0, 499938]: LABEL
+	tot = 59
+	max = 1
+160224 [0, 499438]: LABEL
+	tot = 4947
+	max = 5
+162901 [499292, 499292]: LABEL
+	tot = 50193
+	max = 42

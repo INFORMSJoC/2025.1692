@@ -1,0 +1,164 @@
+hypergraph with 8229 vertices and 245256 hyperarcs generated in 152
+219 [0, 29685]: LP
+	bnd = 29685.000000
+	its = 7
+	hyp = 49 / 105
+	cut = 0
+222 [0, 29685]: HEURISTIC 3
+223 [0, 29685]: LABEL
+	tot = 88
+	max = 1
+226 [0, 29655]: LABEL
+	tot = 141
+	max = 1
+229 [0, 29625]: LABEL
+	tot = 223
+	max = 2
+232 [0, 29596]: LABEL
+	tot = 265
+	max = 2
+236 [0, 29566]: LABEL
+	tot = 341
+	max = 2
+240 [0, 29536]: LABEL
+	tot = 398
+	max = 3
+245 [0, 29507]: LABEL
+	tot = 427
+	max = 3
+251 [0, 29477]: LABEL
+	tot = 535
+	max = 3
+258 [0, 29448]: LABEL
+	tot = 698
+	max = 4
+268 [0, 29418]: LABEL
+	tot = 821
+	max = 4
+278 [0, 29389]: LABEL
+	tot = 878
+	max = 4
+290 [0, 29360]: LABEL
+	tot = 939
+	max = 5
+303 [0, 29330]: LABEL
+	tot = 1049
+	max = 6
+317 [0, 29301]: LABEL
+	tot = 1099
+	max = 6
+333 [0, 29272]: LABEL
+	tot = 1300
+	max = 6
+350 [0, 29242]: LABEL
+	tot = 1443
+	max = 6
+373 [0, 29213]: LABEL
+	tot = 1777
+	max = 9
+401 [0, 29184]: LABEL
+	tot = 2053
+	max = 9
+433 [0, 29155]: LABEL
+	tot = 2282
+	max = 11
+469 [0, 29126]: LABEL
+	tot = 2543
+	max = 13
+497 [0, 29126]: LP
+	bnd = 29679.203125
+	its = 9
+	hyp = 70 / 271
+	cut = 4
+509 [0, 29096]: LABEL
+	tot = 2872
+	max = 15
+560 [0, 29067]: LABEL
+	tot = 3409
+	max = 18
+619 [0, 29038]: LABEL
+	tot = 3849
+	max = 23
+685 [0, 29009]: LABEL
+	tot = 4393
+	max = 23
+736 [0, 29009]: LP
+	bnd = 29652.601562
+	its = 8
+	hyp = 98 / 316
+	cut = 8
+	restart
+818 [0, 28980]: LABEL
+	tot = 5205
+	max = 22
+910 [0, 28951]: LABEL
+	tot = 5803
+	max = 22
+959 [0, 28951]: LP
+	bnd = 29631.589844
+	its = 7
+	hyp = 113 / 388
+	cut = 12
+	restart
+1074 [0, 28922]: LABEL
+	tot = 6984
+	max = 28
+1205 [0, 28893]: LABEL
+	tot = 7966
+	max = 31
+1256 [0, 28893]: LP
+	bnd = 29607.632812
+	its = 10
+	hyp = 93 / 470
+	cut = 16
+	restart
+1392 [0, 28864]: LABEL
+	tot = 9658
+	max = 31
+1493 [0, 28864]: LP
+	bnd = 29598.263672
+	its = 8
+	hyp = 139 / 509
+	cut = 22
+1543 [0, 28836]: LABEL
+	tot = 11072
+	max = 35
+1735 [0, 28807]: LABEL
+	tot = 13893
+	max = 43
+1775 [0, 28807]: LP
+	bnd = 29519.902344
+	its = 10
+	hyp = 137 / 561
+	cut = 28
+	restart
+1916 [0, 28778]: LABEL
+	tot = 10472
+	max = 32
+1950 [0, 28778]: LP
+	bnd = 29481.291016
+	its = 5
+	hyp = 126 / 587
+	cut = 34
+	restart
+2106 [0, 28749]: LABEL
+	tot = 11318
+	max = 32
+2266 [0, 28749]: LP
+	bnd = 29465.638672
+	its = 11
+	hyp = 155 / 658
+	cut = 39
+	restart
+2452 [28698, 28720]: LABEL
+	tot = 13765
+	max = 38
+2587 [28698, 28720]: LP
+	bnd = 29450.794922
+	its = 11
+	hyp = 166 / 709
+	cut = 45
+	restart
+2817 [28698, 28698]: LABEL
+	tot = 16754
+	max = 50

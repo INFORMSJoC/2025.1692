@@ -1,0 +1,220 @@
+hypergraph with 418 vertices and 4136 hyperarcs generated in 7
+40 [0, 400]: LP
+	bnd = 400.000000
+	its = 20
+	hyp = 88 / 142
+	cut = 0
+42 [0, 400]: HEURISTIC 3
+45 [0, 400]: HEURISTIC 9
+47 [0, 399]: LABEL
+	tot = 181
+	max = 5
+49 [0, 399]: LABEL
+	tot = 181
+	max = 5
+50 [0, 399]: LABEL
+	tot = 181
+	max = 5
+54 [0, 398]: LABEL
+	tot = 510
+	max = 13
+59 [0, 398]: LABEL
+	tot = 510
+	max = 13
+63 [0, 398]: LABEL
+	tot = 510
+	max = 13
+69 [0, 397]: LABEL
+	tot = 871
+	max = 18
+75 [0, 397]: LABEL
+	tot = 871
+	max = 18
+80 [0, 397]: LP
+	bnd = 400.000000
+	its = 15
+	hyp = 121 / 274
+	cut = 17
+86 [0, 396]: LABEL
+	tot = 1373
+	max = 25
+95 [0, 396]: LABEL
+	tot = 1377
+	max = 25
+104 [0, 396]: LABEL
+	tot = 1377
+	max = 25
+109 [0, 396]: LP
+	bnd = 400.000000
+	its = 11
+	hyp = 135 / 328
+	cut = 34
+118 [0, 395]: LABEL
+	tot = 2091
+	max = 40
+181 [0, 395]: LP
+	bnd = 399.904968
+	its = 27
+	hyp = 153 / 423
+	cut = 51
+237 [0, 395]: LP
+	bnd = 399.015656
+	its = 17
+	hyp = 194 / 474
+	cut = 68
+	restart
+248 [0, 395]: LABEL
+	tot = 1241
+	max = 21
+256 [0, 394]: LABEL
+	tot = 1420
+	max = 21
+266 [0, 394]: LABEL
+	tot = 1701
+	max = 25
+277 [0, 394]: LABEL
+	tot = 1980
+	max = 32
+289 [0, 393]: LABEL
+	tot = 2241
+	max = 35
+302 [0, 393]: LP
+	bnd = 398.600433
+	its = 17
+	hyp = 171 / 518
+	cut = 85
+	restart
+316 [0, 393]: LABEL
+	tot = 2408
+	max = 36
+331 [0, 392]: LABEL
+	tot = 2746
+	max = 45
+347 [0, 392]: LABEL
+	tot = 3138
+	max = 51
+366 [0, 392]: LABEL
+	tot = 3593
+	max = 54
+388 [0, 391]: LABEL
+	tot = 4113
+	max = 67
+389 [0, 391]: LP
+	bnd = 398.259766
+	its = 20
+	hyp = 212 / 568
+	cut = 102
+	restart
+413 [0, 391]: LABEL
+	tot = 4285
+	max = 63
+438 [0, 390]: LABEL
+	tot = 4867
+	max = 78
+465 [0, 390]: LP
+	bnd = 397.782806
+	its = 13
+	hyp = 202 / 605
+	cut = 119
+	restart
+491 [0, 390]: LABEL
+	tot = 4851
+	max = 78
+519 [0, 390]: LABEL
+	tot = 5414
+	max = 86
+534 [0, 390]: LP
+	bnd = 397.431763
+	its = 12
+	hyp = 214 / 629
+	cut = 136
+	restart
+562 [0, 389]: LABEL
+	tot = 5381
+	max = 94
+592 [0, 389]: LABEL
+	tot = 6069
+	max = 110
+622 [0, 389]: LP
+	bnd = 397.038300
+	its = 16
+	hyp = 248 / 661
+	cut = 153
+	restart
+656 [0, 388]: LABEL
+	tot = 6519
+	max = 108
+693 [0, 388]: LABEL
+	tot = 7302
+	max = 121
+716 [0, 388]: LP
+	bnd = 396.820831
+	its = 12
+	hyp = 260 / 682
+	cut = 170
+	restart
+755 [0, 388]: LABEL
+	tot = 7578
+	max = 119
+797 [0, 387]: LABEL
+	tot = 8402
+	max = 139
+842 [0, 387]: LP
+	bnd = 396.479706
+	its = 17
+	hyp = 261 / 722
+	cut = 187
+	restart
+887 [0, 387]: LABEL
+	tot = 8635
+	max = 122
+936 [0, 387]: LABEL
+	tot = 9512
+	max = 140
+937 [0, 387]: LP
+	bnd = 396.265686
+	its = 11
+	hyp = 268 / 742
+	cut = 204
+	restart
+990 [0, 386]: LABEL
+	tot = 10168
+	max = 155
+1043 [0, 386]: LP
+	bnd = 396.032043
+	its = 10
+	hyp = 259 / 762
+	cut = 221
+	restart
+1097 [0, 386]: LABEL
+	tot = 10265
+	max = 161
+1154 [385, 385]: LABEL
+	tot = 11156
+	max = 176
+1175 [385, 385]: LP
+	bnd = 395.697601
+	its = 16
+	hyp = 282 / 795
+	cut = 236
+	restart
+1235 [385, 385]: LABEL
+	tot = 11424
+	max = 180
+1276 [385, 385]: LP
+	bnd = 395.378784
+	its = 11
+	hyp = 276 / 817
+	cut = 251
+	restart
+1336 [385, 385]: LABEL
+	tot = 11475
+	max = 171
+1373 [385, 385]: LP
+	bnd = 395.217743
+	its = 9
+	hyp = 257 / 836
+	cut = 266
+1402 [385, 385]: LABEL
+	tot = 11686
+	max = 177

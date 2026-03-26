@@ -1,0 +1,7 @@
+hypergraph with 9952 vertices and 459907 hyperarcs generated in 597
+443 [0, 30000]: LP
+	bnd = 30000.000000
+	its = 5
+	hyp = 33 / 66
+	cut = 0
+462 [30000, 30000]: HEURISTIC 3

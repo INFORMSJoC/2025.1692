@@ -1,0 +1,7 @@
+hypergraph with 3064200 vertices and 2520060485 hyperarcs generated in 1474186
+1539807 [0, 2528340]: LP
+	bnd = 2528340.000000
+	its = 2
+	hyp = 101 / 101
+	cut = 0
+1539823 [0, 2528340]: LP INTEGRAL

@@ -1,0 +1,71 @@
+hypergraph with 19466 vertices and 1121862 hyperarcs generated in 501
+1954 [0, 31741]: LP
+	bnd = 31741.509766
+	its = 29
+	hyp = 159 / 519
+	cut = 0
+1959 [0, 31741]: HEURISTIC 3
+1962 [0, 31741]: LABEL
+	tot = 174
+	max = 1
+1972 [0, 31709]: LABEL
+	tot = 575
+	max = 3
+1988 [0, 31678]: LABEL
+	tot = 1120
+	max = 6
+2017 [0, 31646]: LABEL
+	tot = 2132
+	max = 12
+2062 [0, 31614]: LABEL
+	tot = 3528
+	max = 25
+2132 [0, 31583]: LABEL
+	tot = 5784
+	max = 38
+2262 [0, 31551]: LABEL
+	tot = 8587
+	max = 60
+2438 [31271, 31519]: LABEL
+	tot = 13024
+	max = 95
+2686 [31271, 31488]: LABEL
+	tot = 19001
+	max = 136
+2965 [31271, 31456]: LABEL
+	tot = 27430
+	max = 197
+3015 [31271, 31456]: LP
+	bnd = 31718.310547
+	its = 12
+	hyp = 148 / 642
+	cut = 7
+	restart
+3352 [31271, 31425]: LABEL
+	tot = 32646
+	max = 251
+3530 [31271, 31425]: LP
+	bnd = 31716.890625
+	its = 5
+	hyp = 160 / 680
+	cut = 14
+3829 [31271, 31394]: LABEL
+	tot = 47263
+	max = 378
+4256 [31271, 31394]: LP
+	bnd = 31692.498047
+	its = 8
+	hyp = 173 / 725
+	cut = 21
+	restart
+4804 [31271, 31362]: LABEL
+	tot = 53764
+	max = 423
+5129 [31271, 31362]: LP
+	bnd = 31687.753906
+	its = 10
+	hyp = 191 / 830
+	cut = 28
+5575 [31332, 31332]: LABEL
+	tot = 76472
+	max = 610
