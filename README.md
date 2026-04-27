@@ -25,7 +25,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{leonard2026,
-  author =        {A. Léonard, F. Clautiaux},
+  author =        {A. Léonard and F. Clautiaux},
   publisher =     {INFORMS Journal on Computing},
   title =         {{An Efficient Solver for Integral Flows in Decision Hypergraphs with Applications to Cutting Problems}},
   year =          {2026},
